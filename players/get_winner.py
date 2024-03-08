@@ -15,10 +15,27 @@
 
 
 
+def get_move (get_winner):
+
+    print(get_winner )
+
+
+def get_score (board, letter, move, opponent):
+
+    print()
+
+
+def get_highest_index (list_of_numbers):
+    print(list_of_numbers)
+
+
+
 def get_winner(board):
 
     
     print(board)
+
+
 
 
 
